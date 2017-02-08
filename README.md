@@ -1,5 +1,5 @@
 # go-game
-1. 使用javascript, svg, html5实现
+1. 初学者练习前端，使用javascript, svg, html5实现
 2. 功能：
   1. 该围棋只实现了UI篇，围棋算法不完全。
   2. 点击鼠标交替落下黑白棋子。
